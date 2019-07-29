@@ -1,11 +1,9 @@
-&lt;awesome-button/&gt;
+&lt;amazing-share-button&gt;
 =================
 The awesome-button Vanilla JS custom element web component is a cool option to quickly add
 share buttons (or any kind of buttons) to your projects.
 
 ## Live demo
-
-[Access the live demo here.](http://caferati.me/demo/awesome-button)
 
 ![awesome button](http://i.imgur.com/ShLg235.png)
 
@@ -40,18 +38,14 @@ share buttons (or any kind of buttons) to your projects.
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install awesome-button --save
+$ bower install amazing-share-button --save
 ```
-Or [download the zip file](https://github.com/rcaferati/awesome-button/archive/master.zip).
+
 
 ## Author
-#### Rafael Caferati
-+ Checkout my <a href="https://caferati.me" title="Full-Stack Web Developer, UI/UX Javascript Specialist" target="_blank">Full-Stack Web Developer Website</a>
-+ Other open source projects @ <a title="Web Software Developer Code Laboratory" target="_blank" href="https://caferati.me/labs">Code Laboratory</a>
-+ A scope of my work @ <a title="Web Software Developer Portfolio" target="_blank" href="https://caferati.me/portfolio">Web Portfolio</a>
+#### Bilal Hafeji
+
 
 License
 -------
 MIT: http://mit-license.org/
-
-Copyright 2015 [Rafael Caferati](http://caferati.me)
